@@ -1,0 +1,15 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "users little application",
+  "main": "http_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kanaad.rithvik@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lowdb": "^1.0.0"
+  }
+}
